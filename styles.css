@@ -144,6 +144,7 @@ a:active {
 
 .table td {
     padding-bottom: 10px;
+     text-align: center;
 }
 
 .table td:nth-child(3) {
